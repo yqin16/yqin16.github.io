@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Ying Qin
 
-You can use the [editor on GitHub](https://github.com/yqin16/yqin16.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a sophomore at Johns Hopkins University. I am in [Dr. Kassin's group](https://www.susankassin.com/sliceanddice) and I focus on Mg II emission in low mass galaxies and its application on cosmic reionization.
 
 ### Markdown
 
